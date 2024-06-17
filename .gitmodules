@@ -4,3 +4,6 @@
 [submodule "lib/v4-periphery"]
 	path = lib/v4-periphery
 	url = https://github.com/Uniswap/v4-periphery
+[submodule "lib/standard3.0-contracts"]
+	path = lib/standard3.0-contracts
+	url = https://github.com/standardweb3/standard3.0-contracts
